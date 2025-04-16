@@ -1,0 +1,1 @@
+SELECT ROUND(avg(m.valor), 2) valor_medio FROM matricula m;
